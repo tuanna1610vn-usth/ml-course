@@ -9,16 +9,16 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 ## Course Modules
 
-| # | Topic | Slides / Materials | Notebook |
-|--|------|--------------------|----------|
-| 1 | Introduction to ML & Data Mining | [View](../1-Introduction-to-Machine-Learning-and-Data/) | To be added |
-| 2 | Linear Regression | [View](../2-Linear-Regression/) | To be added |
-| 3 | Logistic Regression | [View](../3-Logistic-Regression/) | To be added |
-| 4 | Regularization | [View](../4-Regularization/) | To be added |
-| 5 | PCA | [View](../5-Principal-Component-Analysis/) | To be added |
-| 6 | Neural Networks | [View](../6-Neural-Networks/) | To be added |
-| 7 | Bayes Classification | [View](../7-Bayes-Classification/) | To be added |
-| 8 | Group Projects | [View](../8-Group-Projects/) | To be added |
+| # | Topic | Slides / Materials | Notebook | Status |
+|--|------|--------------------|----------|----------|
+| 1 | Introduction to ML & Data Mining | [View](../1-Introduction-to-Machine-Learning-and-Data/) | To be added | DONE | 
+| 2 | Linear Regression | [View](../2-Linear-Regression/) | To be added | | 
+| 3 | Logistic Regression | [View](../3-Logistic-Regression/) | To be added | | 
+| 4 | Regularization | [View](../4-Regularization/) | To be added | | 
+| 5 | PCA | [View](../5-Principal-Component-Analysis/) | To be added | | 
+| 6 | Neural Networks | [View](../6-Neural-Networks/) | To be added | | 
+| 7 | Bayes Classification | [View](../7-Bayes-Classification/) | To be added | | 
+| 8 | Group Projects | [View](../8-Group-Projects/) | To be added | | 
 
 ---
 
