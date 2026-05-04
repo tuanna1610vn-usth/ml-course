@@ -6,22 +6,23 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 ---
 
-## 📚 Course Modules
 
-| # | Topic | Materials |
-|--|------|----------|
-| 1 | Introduction to ML | [View](../1-Introduction-to-Machine-Learning-and-Data/) |
-| 2 | Linear Regression | [View](../2-Linear-Regression/) |
-| 3 | Logistic Regression | [View](../3-Logistic-Regression/) |
-| 4 | Regularization | [View](../4-Regularization/) |
-| 5 | PCA | [View](../5-Principal-Component-Analysis/) |
-| 6 | Neural Networks | [View](../6-Neural-Networks/) |
-| 7 | Bayes Classification | [View](../7-Bayes-Classification/) |
-| 8 | Group Projects | [View](../8-Group-Projects/) |
+## Course Modules
+
+| # | Topic | Slides / Materials | Notebook |
+|--|------|--------------------|----------|
+| 1 | Introduction to ML & Data Mining | [View](../1-Introduction-to-Machine-Learning-and-Data/) | To be added |
+| 2 | Linear Regression | [View](../2-Linear-Regression/) | To be added |
+| 3 | Logistic Regression | [View](../3-Logistic-Regression/) | To be added |
+| 4 | Regularization | [View](../4-Regularization/) | To be added |
+| 5 | PCA | [View](../5-Principal-Component-Analysis/) | To be added |
+| 6 | Neural Networks | [View](../6-Neural-Networks/) | To be added |
+| 7 | Bayes Classification | [View](../7-Bayes-Classification/) | To be added |
+| 8 | Group Projects | [View](../8-Group-Projects/) | To be added |
 
 ---
 
-## 🧠 Course Topics Overview
+## Course Topics Overview
 
 - Supervised Learning
 - Regression & Classification
@@ -33,7 +34,7 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 ---
 
-## 📊 Evaluation (to be updated)
+## Evaluation (to be updated)
 
 | Component | Weight |
 |----------|--------|
@@ -44,7 +45,7 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 ---
 
-## 👥 Group Projects (to be updated)
+## Group Projects (to be updated)
 
 - Project topics will be provided
 - Groups of 2–4 students
@@ -56,8 +57,8 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 ## 🔗 Useful Links
 
-- 📂 GitHub Repository: [ml-course](https://github.com/USTH-classroom/ml-course)
-- 📘 Course README: [README](../README.md)
+- GitHub Repository: [ml-course](https://github.com/USTH-classroom/ml-course)
+- Course README: [README](../README.md)
 
 ---
 
@@ -72,8 +73,8 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 ## 💬 Contact
 
-Instructor: *[Your Name]*  
-Email: *[your.email@university.edu]*  
+Instructor: *Emanuela Boros*  
+Email: *emanuela.boros@univ-lr.fr*  
 
 ---
 
