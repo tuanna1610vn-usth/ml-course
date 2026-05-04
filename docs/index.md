@@ -49,7 +49,7 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 ## Group Project
 
-[📌 Group Project Instructions](../8-Group-Projects/group_project_ml_ai.md)
+[📌 Group Project Instructions](./8-Group-Projects/group_project_ml_ai.md)
 
 - Project topics will be provided
 - Groups of 2–4 students (but can be also solo!)
