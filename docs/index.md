@@ -20,7 +20,6 @@ This course covers the fundamentals of machine learning, from basic models to ad
 | 5 | PCA | [View](../5-Principal-Component-Analysis/) | To be added | | 
 | 6 | Neural Networks | [View](../6-Neural-Networks/) | To be added | | 
 | 7 | Bayes Classification | [View](../7-Bayes-Classification/) | To be added | | 
-| 8 | Group Projects | [View](../8-Group-Projects/) | To be added | | 
 
 ---
 
@@ -33,6 +32,7 @@ This course covers the fundamentals of machine learning, from basic models to ad
 - Dimensionality Reduction
 - Neural Networks
 - Probabilistic Models
+- Intro to LLMS (?!)
 
 ---
 
@@ -47,7 +47,9 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 ---
 
-## Group Projects (to be updated)
+## Group Project
+
+[📌 Group Project Instructions](../8-Group-Projects/group_project_ml_ai.md)
 
 - Project topics will be provided
 - Groups of 2–4 students (but can be also solo!)
@@ -59,7 +61,7 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 ## 💬 Contact
 
-Instructor: *Emanuela Boros*  
+Assist. Prof.: *Emanuela Boros*  
 Email: *emanuela.boros@univ-lr.fr*  
 
 ---
