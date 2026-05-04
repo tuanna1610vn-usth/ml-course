@@ -225,6 +225,7 @@ Groups may receive bonus recognition for:
 | <img src="../badges/best-visualization.png" width="80">       | Best visualization |
 | <img src="../badges/best-real-world-problem.png" width="80">  | Best real-world problem formulation |
 | <img src="../badges/best-tech-smart.png" width="80">          | Best tech smart |
+
 ---
 
 ## Reminder
