@@ -13,7 +13,7 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 | # | Topic | Slides / Materials | Notebook | Status |
 |--|------|--------------------|----------|----------|
-| 1 | Introduction to ML & Data Mining | [View](../1-Introduction-to-Machine-Learning-and-Data/1 - Introduction to Machine Learning and Data Mining.pdf) | To be added | DONE | 
+| 1 | Introduction to ML & Data Mining | [📄 Slides](./1-Introduction-to-Machine-Learning-and-Data-Mining/introduction-ml-data-mining.pdf) | To be added | DONE | 
 | 2 | Linear Regression | [View](../2-Linear-Regression/) | To be added | | 
 | 3 | Logistic Regression | [View](../3-Logistic-Regression/) | To be added | | 
 | 4 | Regularization | [View](../4-Regularization/) | To be added | | 
