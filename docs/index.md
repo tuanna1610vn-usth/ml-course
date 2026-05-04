@@ -1,13 +1,80 @@
-# Machine Learning Course
+# 🎓 Machine Learning Course
 
-Welcome to the ML course.
+Welcome to the Machine Learning course 🚀
 
-## Materials
+This course covers the fundamentals of machine learning, from basic models to advanced concepts and applications.
 
-- Introduction to ML
-- Linear Regression
-- Logistic Regression
+---
+
+## 📚 Course Modules
+
+| # | Topic | Materials |
+|--|------|----------|
+| 1 | Introduction to ML | [View](../1-Introduction-to-Machine-Learning-and-Data/) |
+| 2 | Linear Regression | [View](../2-Linear-Regression/) |
+| 3 | Logistic Regression | [View](../3-Logistic-Regression/) |
+| 4 | Regularization | [View](../4-Regularization/) |
+| 5 | PCA | [View](../5-Principal-Component-Analysis/) |
+| 6 | Neural Networks | [View](../6-Neural-Networks/) |
+| 7 | Bayes Classification | [View](../7-Bayes-Classification/) |
+| 8 | Group Projects | [View](../8-Group-Projects/) |
+
+---
+
+## 🧠 Course Topics Overview
+
+- Supervised Learning
+- Regression & Classification
+- Model Evaluation
 - Regularization
-- PCA
+- Dimensionality Reduction
 - Neural Networks
-- Naive Bayes
+- Probabilistic Models
+
+---
+
+## 📊 Evaluation (to be updated)
+
+| Component | Weight |
+|----------|--------|
+| Assignments | TBD |
+| Midterm | TBD |
+| Final Project | TBD |
+| Participation | TBD |
+
+---
+
+## 👥 Group Projects (to be updated)
+
+- Project topics will be provided
+- Groups of 2–4 students
+- Final presentation required
+
+👉 Details coming soon
+
+---
+
+## 🔗 Useful Links
+
+- 📂 GitHub Repository: [ml-course](https://github.com/USTH-classroom/ml-course)
+- 📘 Course README: [README](../README.md)
+
+---
+
+## 🚀 Getting Started
+
+1. Browse course modules above  
+2. Follow lectures and materials  
+3. Complete exercises  
+4. Work on the group project  
+
+---
+
+## 💬 Contact
+
+Instructor: *[Your Name]*  
+Email: *[your.email@university.edu]*  
+
+---
+
+> “Machine Learning is not about memorizing formulas — it’s about understanding data.”
