@@ -24,7 +24,7 @@ Course materials are uploaded progressively during the semester.
 
 You can return to the main course page here:
 
-[⬅ Back to Machine Learning Course](./README.md)
+[⬅ Back to Machine Learning Course](./index.md)
 
 ---
 
